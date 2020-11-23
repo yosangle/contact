@@ -1,0 +1,25 @@
+<? xml version="1.0" encoding="UTF-8"?>
+
+<te>
+
+<student>
+	<roll>1</roll>
+	<name>mr.parth</name>
+	<marks>100</marks>
+</student>
+
+	
+<student>
+	<roll>2</roll>
+	<name>mr.irvin</name>
+	<marks>100</marks>
+</student>
+
+	
+<student>
+	<roll>3</roll>
+	<name>ms.jinu</name>
+	<marks>99</marks>
+</student>
+
+</te>
