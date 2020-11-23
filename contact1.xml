@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="contact1.xsl"?>
+<doctors>
+
+<doctor>
+<name> Dr.Bhagwat Chaudhary</name>
+<yoe> 40 years</yoe>
+<degree>MBBS, MS(ENT)</degree>
+<speciality>ENT</speciality>
+<hospital> Fortis Hospital</hospital>
+<address>Mulund(W) Mumbai</address>
+</doctor>
+
+<doctor>
+	<name> Dr.S.A Merchant</name>
+<yoe> 34 years</yoe>
+<degree>MBBS,MD</degree>
+<speciality>CARDIOLOGIST</speciality>
+<hospital> Lilavati Hospital</hospital>
+<address>Bandra(W) Mumbai</address>
+</doctor>
+
+<doctor>
+	<name> Dr. PS Lamba</name>
+<yoe> 46 years</yoe>
+<degree>MBBS,MD</degree>
+<speciality>DIABETOLOGIST</speciality>
+<hospital> Fortis Hospital</hospital>
+<address>Mulund(W) Mumbai</address>
+</doctor>
+
+<doctor>
+	<name> Dr.Kedar Toraskar</name>
+<yoe> 16 years</yoe>
+<degree>MBBS,MD</degree>
+<speciality>GENERAL PHYSICIAN</speciality>
+<hospital> Wockhardt Hospital</hospital>
+<address> Mumbai Central</address>
+</doctor>
+
+<doctor>
+	<name> Dr.Indu Bubna</name>
+<yoe> 17 years</yoe>
+<degree>MD, DTCD</degree>
+<speciality>PULMONOLOGIST</speciality>
+<hospital>Private Clinic</hospital>
+<address> Shop No. 8 Nishit Building, Ushma Nagar Evershine Nagar, Malad West, Mumbai, MH 400064 </address>
+</doctor>
+
+<doctor>
+	<name> Dr.Nanda R Kumar</name>
+<yoe> 17 years</yoe>
+<degree>MBBS</degree>
+<speciality>GYNAECOLOGIST</speciality>
+<hospital>Dr.Nanda R Kumar's Gynaecology Clinic</hospital>
+<address> Chembur(E), Mumbai </address>
+</doctor>
+
+<doctor>
+	<name> Dr.Nana C Joshi</name>
+<yoe> 50 years</yoe>
+<degree>MD-pediatrics,MBBS</degree>
+<speciality>PEDIATRICIAN</speciality>
+<hospital>Nanavati Hospital</hospital>
+<address> Vile Parle, Mumbai </address>
+</doctor>
+</doctors>
